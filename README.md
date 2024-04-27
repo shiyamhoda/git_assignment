@@ -35,3 +35,13 @@ The following steps can be followed to add someone to my repository
 5. send invitation
 6. the invited collaborator need to accept the invite 
 
+e. What is the difference between git and GitHub?
+
+Git : It is a version control managment system which allows developers to track changes, collaborat with other and mange multiple versions of the project. Git operates on developers machine locally. 
+GitHub : A web-based platform that hosts git repos and provides additional collaborative tools to developers. It allows users to host thier repos remotly on GitHub servers. Additional features available on GitHUb are issue tracking, Pull Requests, code reviews, sikis etc. 
+
+f. What does git diff do?
+
+The git diff command is used to show the differences between different states of a Git repository. Like between different branches, working directory and staging area, staged and last committed version etc. 
+
+
