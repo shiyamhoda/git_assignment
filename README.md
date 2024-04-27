@@ -44,4 +44,10 @@ f. What does git diff do?
 
 The git diff command is used to show the differences between different states of a Git repository. Like between different branches, working directory and staging area, staged and last committed version etc. 
 
+g. What is the main branch?
 
+As the name suggests it is the main or the default branch or the code. It typically represents the most stable and up-to-date version of the project. The main branch often serves as the base from which other branches are created, and it's where integration of new features, bug fixes, and other changes typically occurs.
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+Pushing changes directly to the main branch is generally not recommended.The best practice to follow a workflow that incorporates feature branches and pull requests. While pushing changes directly to the main branch is technically possible, following a feature branch-based workflow with pull requests offers several benefits, including improved code quality, collaboration, and release management. 
