@@ -51,3 +51,5 @@ As the name suggests it is the main or the default branch or the code. It typica
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
 Pushing changes directly to the main branch is generally not recommended.The best practice to follow a workflow that incorporates feature branches and pull requests. While pushing changes directly to the main branch is technically possible, following a feature branch-based workflow with pull requests offers several benefits, including improved code quality, collaboration, and release management. 
+
+adding new line for opening a new pull request
